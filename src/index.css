@@ -1,0 +1,34 @@
+
+.image-size{
+    
+    width: 40px;
+    height: 40px;
+}
+.mtrh-nav{
+    display: block;
+    flex-direction: column;
+}
+.footer-content,
+.mtrh-header,
+.search-menu
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.none{
+    text-decoration: none;
+}
+.resize{
+    margin-top: 150px;
+
+}
+.text-orange{
+    color: orange;
+}
+.footer{
+    position:absolute;
+    bottom: 0;
+    width: 80%;
+}
+
